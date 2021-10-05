@@ -1,2 +1,8 @@
 # MultiLibrus
-(Browser Extension) MultiLibrus to darmowe rozszerzenie dla rodziców, uczniów i nauczycieli pozwalające wyświetlić średnią ucznia w systemie Librus, nawet jeżeli podgląd został wyłączony przez administrację. 
+Aplikacja wkrótce zostanie otwarta
+
+Projekt nie jest kodem składnikowym (Source Code), ponieważ broniy wszystkie pliki przed penetracyjnymi hakerami.
+
+
+
+Pomysł wzięty od: Szkoła Podstawowa im. Jana Pawła II w Łomży
