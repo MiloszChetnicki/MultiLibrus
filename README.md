@@ -7,3 +7,5 @@ Projekt nie jest kodem składnikowym (Source Code), ponieważ bronimy wszystkie 
 
 Pomysł wzięty od: Szkoła Podstawowa im. Jana Pawła II w Łomży
 http://www.sp10lomza.pl/
+
+ZABRANIA SIĘ EDYTOWANIA, POBIERANIA KODU STORNY HTML! 
