@@ -1,7 +1,7 @@
 # MultiLibrus
 Kontynuacja programu...
 
-Czas przewidywany: 01.15.22
+Czas przewidywany: 01.29.2022
 
 ### Informacje
 Naprawiamy wszystkie usterki naszej strony.
