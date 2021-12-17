@@ -4,7 +4,10 @@ Kontynuacja programu...
 Czas przewidywany: 01.15.22
 
 ### Informacje
+Naprawiamy wszystkie usterki naszej strony.
+
 ``` Zabrania się zabierania wszytskich informacji takich jak: plików .html, css i innych. Program jest na licensji MIT !```
+
 
 
 
