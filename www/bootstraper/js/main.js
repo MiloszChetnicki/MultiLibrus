@@ -11,7 +11,7 @@
     const cfg = {
 
         // Countdown Timer Final Date
-        finalDate : 'January 20, 2022 00:00:00',
+        finalDate : 'January 29, 2022 00:00:00',
         // MailChimp URL
         mailChimpURL : 'https://facebook.us1.list-manage.com/subscribe/post?u=1abf75f6981256963a47d197a&amp;id=37c6d8f4d6' 
 
