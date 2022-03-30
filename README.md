@@ -1,7 +1,5 @@
 # MultiLibrus
-Kontynuacja programu...
-
-Czas przewidywany: 01.29.2022
+Nowy projekt aplikacji.
 
 ### Informacje
 Naprawiamy wszystkie usterki naszej strony.
